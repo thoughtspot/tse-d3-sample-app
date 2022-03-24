@@ -53,6 +53,6 @@ The following charts are included, with all code in the components folder.
 ### Data
 This app uses the sample retail dataset which comes preloaded with your ThoughtSpot free trail environment. Within each example chart, a worksheet id and search term is included. You can play with these values to retrieve your own data and then change field mapping to the D3 chart.
 
-`const worksheetID = "cd252e5c-b552-49a8-821d-3eadaa049cca";
-const search = "[sales] [item type]";
-`
+`const worksheetID = "cd252e5c-b552-49a8-821d-3eadaa049cca";`
+`const search = "[sales] [item type]";`
+
