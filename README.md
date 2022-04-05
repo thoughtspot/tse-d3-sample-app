@@ -41,14 +41,23 @@ Once the app is running, you can navigate to http://localhost:8000 to check it o
 
 The following charts are included, with all code in the components folder.
 * Bar Chart
+![Bar Chart](screenshots/barchart.png)
 * Gauge
+![Gauge](screenshots/gauge.png)
 * Interactive Radar
+![Interactive Radar](screenshots/interactive-radar.png)
 * Pie Chart
+![Pie Chart](screenshots/pie-chart.png)
 * Radial Stacked Bar
+![Radial Stacked](screenshots/radial-stacked.png)
 * Sunburst
+![Sunburst](screenshots/sunburst.png)
 * Bubble Map
+![Bubble Map](screenshots/bubble-map.png)
 * State Choropleth Map
+![State Choropleth](screenshots/choropleth.png)
 * Word Cloud
+![Word Cloud](screenshots/wordcloud.png)
 
 ### Data
 This app uses the sample retail dataset which comes preloaded with your ThoughtSpot free trail environment. Within each example chart, a worksheet id and search term is included. You can play with these values to retrieve your own data and then change field mapping to the D3 chart.
