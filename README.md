@@ -1,4 +1,4 @@
-# ThoughtSpot Everywhere React Starter App (D3 Charts showcase)
+# ThoughtSpot Everywhere D3 Sample Showcase
 This app is an example react-based app for embedding 3D Charts using [Thoughtspot Search Rest API](https://developers.thoughtspot.com/docs/?pageid=search-data-api). It is designed to work with the Sample Retail Apparel dataset included with the ThoughtSpot Free Trial account.
 
 It contains example code for:
