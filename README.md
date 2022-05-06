@@ -31,7 +31,7 @@ You can define environment variables and launch directly as follows:
 
  `REACT_APP_TS_URL=YOUR_INSTANCE_URL REACT_APP_TS_USERNAME=YOUR_USERNAME REACT_APP_TS_PASSWORD=YOUR_PASSWORD npm start`
 
-Or you can define your variables in a local [.env](https://create-react-app.dev/docs/adding-custom-environment-variables/) file (one has been provided in this project) and run:
+Or you can define your variables in a local [.env](https://create-react-app.dev/docs/adding-custom-environment-variables/) file (one has been provided in this project. Simply rename dotenv to .env and add your values) and run:
 
  `npm start`
 
